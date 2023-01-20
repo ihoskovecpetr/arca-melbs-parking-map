@@ -12,3 +12,9 @@ Did not implement sorting by payment type.\
 Based on CRA project.\
 Filtering on server vs in browser.\
 I have spend much more than 3 hours, maybe over 5.. (Due to testing different libraries for displaying map).\
+
+### `How to run the project?`
+
+1. npm i\
+2. update '.env' file.\
+3. npm start
